@@ -3,7 +3,7 @@ Quiz 02
 
 Question 01
 -----------  
- A protocol graph represents:  
+A protocol graph represents:  
 
 ### Answer  
 a graph that comprises of a set of related protocols at different levels or layers, with each protocol represented as a node in the graph.  

@@ -1,23 +1,43 @@
 Quiz 01
 =======  
 
-|Attempts|Score|  
-|--------|-----|  
-|     1/2|  1/1|  
-
-Question  
---------  
-What makes computing device autonomous in the sense that it could qualify as a Network Node?  
-* Device's own Processor  
-* Device's own Primary Memory / Storage  
-* Device's own Secondary Storage  
-* Device's own Communication Interface  
-* A combination of Device's own Processor and primary Memory / Storage  
-* A Cobination of Device's own Primary and Secondary Storage  
-* None of these  
+Question 01
+-----------  
+Which one of these does not qualify as a network node?  
 
 ### Answer  
-A combination of Device's own Processor and primary Memory / Storage  
+a TeleType Terminal (TTY).  
+
+Question 02
+-----------  
+What is inside a Network Adapter?  
+
+### Answer  
+All the three listed pairs and a few more elements.   
 
 ### Explanation  
-In order to be called an autonomous computing element in this sense, the minimum a device must have is its own processing capability (that would involve processor and RAM at the least) and not working as a 'slave' to any other device.  
+The pairs of elements are:  
+* Multiplexer and Demultiplexer  
+* Transmitter and Receiver  
+* Scrambler and Descrambler  
+
+Question 03
+-----------  
+Is the Internet the same as:  
+
+### Answer  
+A globally accessible public Internetwork having no owner.  
+
+Question 04
+-----------  
+What is a Network Protocol?  
+
+### Answer  
+A set of rules and conventions or commands and responses which allow meaningful communication between interconnected network nodes.  
+
+Question 05
+-----------  
+Which of the following enables bi-directional exchanges between different types of networks or the networks using different sets of protocols?  
+
+### Answer  
+A Gateway.  
